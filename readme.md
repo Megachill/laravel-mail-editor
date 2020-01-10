@@ -1,9 +1,5 @@
-<h6 align="center">
-    <img src="https://i.imgur.com/QpAJLql.png" width="150"/>
-</h6>
-
 <h2 align="center">
-    Laravel Mail Editor (Aka MailEclipse)
+    Laravel Mail Editor (Forked MailEclipse)
 </h2>
 
 <p align="center">

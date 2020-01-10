@@ -9,3 +9,5 @@ resources/views/draft/*
 # exception to the rule
 !resources/views/draft/.gitkeep
 !resources/views/templates/.gitkeep
+
+.idea
